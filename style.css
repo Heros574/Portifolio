@@ -8,6 +8,7 @@ body{
     max-width: 12em;
     position: relative;
     border-radius: 100%;
+    left: 20%;
 }
 
 p{
@@ -68,4 +69,28 @@ p{
     position: relative;
     left: 97%;
     margin: 1em;
+}
+
+.Tipo{
+    border: 3px solid rgb(45, 45, 45);
+    background: rgb(104, 103, 104);
+    border-radius: 10px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    
+}
+
+.Tipo:active{
+      border: 3px solid rgb(104, 103, 104);
+    background: rgb(45, 45, 45);
+}
+
+
+img{
+    width: 20em !important;
+    transform: translateX(-50%);
+    position: relative;
+    left: 50%;
+   
 }

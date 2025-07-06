@@ -54,10 +54,10 @@ p{
 
 .vid{
 
-    width: 100% !important;
+    width: 75% !important;
     transform: translateX(-50%);
     position: relative;
-    left: 50%;
+    left: 43%;
     margin: 1em;
 }
 
@@ -93,4 +93,9 @@ img{
     position: relative;
     left: 50%;
    
+}
+
+.b1{
+    position: absolute;
+    top: 30%;
 }

@@ -60,7 +60,10 @@ p{
     left: 43%;
     margin: 1em;
 }
-
+a{
+    text-decoration: none !important;
+    font-weight: 900;
+}
 
 .vid2{
 
